@@ -1,7 +1,5 @@
-import cv2
+import re
 
-red = img[:, :, 2].copy()
-import cv2
-img = cv2.imread("imori.jpg")
-red = img[:, :, 2].copy()
+print("hello world")
+
 
